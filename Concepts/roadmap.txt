@@ -1,0 +1,34 @@
+elastic stack for storing twitter data
+Need to indentify specific hashtags to follow
+need twitter -> elastic pipeline 
+    possible sentiment analysis pipeline here that might work https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/
+Need to perform named entity recognition on tweets
+Need to find a way to save that data in a entity, verb, entity/attribute format in elastic
+
+Need to create a web front end that queries elastic for reltionship data
+Displays in network format
+    https://observablehq.com/@d3/force-directed-graph
+    https://plotly.com/python/network-graphs/
+
+
+currently summarizing articles
+    https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70
+    https://towardsdatascience.com/current-google-search-packages-using-python-3-7-a-simple-tutorial-3606e459e0d4
+    https://blog.aureusanalytics.com/blog/5-natural-language-processing-techniques-for-extracting-information
+    https://huggingface.co/docs/transformers/master/en/main_classes/pipelines#transformers.SummarizationPipeline
+    https://gist.github.com/itsuncheng/f3c4dde81ac4651383c4480958da4f8e#file-summarization-ipynb
+    https://www.geeksforgeeks.org/performing-google-search-using-python-code/
+    https://www.geeksforgeeks.org/beautifulsoup-scraping-paragraphs-from-html/
+    https://medium.com/analytics-vidhya/text-summarization-using-spacy-ca4867c6b744
+    https://github.com/kamal2230/text-summarization/blob/master/Summarisation_using_spaCy.ipynb
+    https://python-googlesearch.readthedocs.io/en/latest/_modules/googlesearch.html#search
+    https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/
+
+current Q&A articles:
+    https://www.kdnuggets.com/2021/10/simple-question-answering-web-app-hugging-face-pipelines.html
+
+
+    ref
+        https://github.com/akashp1712/summarize-webpage
+        https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
