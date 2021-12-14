@@ -7,5 +7,5 @@ Project FireWeb is an open-source intel platform aimed at summarizing relevant n
 ## TODO
 - [X] Proof of Concept Summarization
 - [X] Proof of Concept Question and Answering
-- [] Proof of Concept Front End Web Application
-- [] Identify Backend Storage Solution
+- [ ] Proof of Concept Front End Web Application
+- [ ] Identify Backend Storage Solution
